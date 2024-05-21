@@ -1,12 +1,12 @@
 {
   "name": "taskmaster-tea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Welcome to TaskMaster! TaskMaster is a comprehensive task management system designed to help individuals and teams organize, prioritize, and track their tasks effectively. Whether you're a busy professional, a student, or a freelancer, TaskMaster provides the tools and features you need to stay organized and productive. Say goodbye to missed deadlines and hello to efficient task management with TaskMaster!",
   "main": "index.js",
   "scripts": {},
   "repository": {
   "type": "git",
-  "url": "https://github.com/dgey31/TaskMaster.git址"
+  "url": "https://github.com/dgey31/TaskMaster.git"
   },
   "keywords": [
   "sample",
@@ -33,14 +33,14 @@
     "smarttask-tea": "^1.0.1",
     "healthfit_tea": "^1.0.1",
     "datainsight_tea": "^1.0.1",
-    "recipegenie-tea": "^1.0.0",
-    "smarthomehubsmarthomehub-tea": "^1.0.0",
-    "ecogarden-tea": "^1.0.0",
-    "codecrafterstea": "^1.0.0",
-    "dataanalyzerourtea": "^1.0.0",
-    "ecotravelourtea": "^1.0.0",
-    "ecoeatstea": "^1.0.0",
-    "healthmonitortea": "^1.0.0",
+    "taskmaster-tea": "^1.0.1",
+    "recipegenie-tea": "^1.0.1",
+    "smarthomehubsmarthomehub-tea": "^1.0.1",
+    "ecogarden-tea": "^1.0.1",
+    "codecrafterstea": "^1.0.1",
+    "dataanalyzerourtea": "^1.0.1",
+    "ecotravelourtea": "^1.0.1",
+    "healthmonitortea": "^1.0.1",
     "ecotrack_tea": "^1.0.1",
     "securevault-tea": "^1.0.1",
 "codegenius-tea": "^1.0.1"
